@@ -7,6 +7,7 @@
 
 using namespace std;
 
+// get max continous zero number in a number.
 inline int get_max_continus_zero(int mark)
 {
 	int local = 0;
@@ -25,7 +26,7 @@ inline int get_max_continus_zero(int mark)
 	return max_continus_zero;
 }
 
-
+// find the start position of required continuous zero ?
 inline int get_fit_continus_zero(int mark, int required)
 {
 	int local = 0;
@@ -62,6 +63,7 @@ inline int get_fit_continus_zero(int mark, int required)
 	return fitoff;
 }
 
+// set off-num+1~off as 1
 inline int set_continus_one(int &mark, int off, int number)
 {
 	int mask = 0x1<<off;

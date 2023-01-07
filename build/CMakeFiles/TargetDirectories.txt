@@ -1,0 +1,7 @@
+/home/yu/codings/Scaph/build/CMakeFiles/rebuild_cache.dir
+/home/yu/codings/Scaph/build/CMakeFiles/edit_cache.dir
+/home/yu/codings/Scaph/build/app/CMakeFiles/rebuild_cache.dir
+/home/yu/codings/Scaph/build/app/CMakeFiles/edit_cache.dir
+/home/yu/codings/Scaph/build/app/CMakeFiles/wcc.dir
+/home/yu/codings/Scaph/build/app/CMakeFiles/bfs.dir
+/home/yu/codings/Scaph/build/app/CMakeFiles/sssp.dir

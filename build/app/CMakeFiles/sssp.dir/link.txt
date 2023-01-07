@@ -1,0 +1,1 @@
+/usr/bin/g++  CMakeFiles/sssp.dir/sssp.cu.o -o sssp  -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda/targets/x86_64-linux/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

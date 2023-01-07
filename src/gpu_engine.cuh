@@ -3,7 +3,7 @@
 
 #include "gpu_tools.cuh"
 #include "page.h"
-#include "cub/cub/util_ptx.cuh"
+#include "../third-tool-lib/cub/cub/util_ptx.cuh"
 
 #ifdef APPBFS
 #include "bfs_kernel.cuh"

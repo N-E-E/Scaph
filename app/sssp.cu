@@ -1,4 +1,4 @@
-#include "app.cuh"
+#include "../src/app.cuh"
 #include <iostream>
 #include <string.h>
 #include <gflags/gflags.h>

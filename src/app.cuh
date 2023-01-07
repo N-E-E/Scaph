@@ -48,7 +48,7 @@ int FLAGS_tricknum = 0;
 int FLAGS_src = 0;
 double Total_throughput=0;
 
-std::string FLAGS_graphfile = "/home/sxy/lxl/Scaph_Bench/data/data/twitter-2010.edgelist.txt";
+std::string FLAGS_graphfile = "/home/sxy/lxl/Scaph_Bench/data/data/twitter-2010.edgelist.txt";  // store the graph data
 char* graph_file_name_print = "twitter-2010";
 
 //std::string FLAGS_graphfile = "/home/sxy/lxl/Scaph_Bench/uk2007/enterprise/uk-2007-05-edgelist.txt";
